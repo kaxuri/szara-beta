@@ -1,4 +1,9 @@
 # SZARA-BETA ( PROJEKT SKOŃCZONY)
+
+![Frame 23 (2)](https://github.com/user-attachments/assets/33b4f3b7-d41e-4467-a36c-497390f083b4)
+
+
+
 Projekt został skończony lecz będzie on nadal aktualizowany.<br>
 Co jest potrzebne do uruchomienia projektu?<br>
 Infrastruktura która uruchomi Next.js,Node.js,MySQL jednocześnie(Można skorzystać z gotowych rozwiązań Platform typu SaaS bądź konfigurować VPS na własną ręke)<br>
